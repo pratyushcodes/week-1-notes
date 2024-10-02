@@ -5,7 +5,7 @@ package Classes;
 public class Main {
     public static void main(String[] args) {
         Animals alligator = new Animals(4, "carnivore");
-        Animals human = new Animals();
+        print("hi");
 
     }
 }
