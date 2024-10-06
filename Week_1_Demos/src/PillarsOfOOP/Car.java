@@ -1,4 +1,4 @@
-package FourPillarsOfOOP;
+package PillarsOfOOP;
 
 public class Car extends Vehicle{
     int wheels = 4;

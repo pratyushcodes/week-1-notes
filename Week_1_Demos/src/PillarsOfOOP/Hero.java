@@ -1,4 +1,4 @@
-package FourPillarsOfOOP;
+package PillarsOfOOP;
 
 public class Hero extends Person{
     String power;

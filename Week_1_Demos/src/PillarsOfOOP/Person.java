@@ -1,4 +1,4 @@
-package FourPillarsOfOOP;
+package PillarsOfOOP;
 
 public class Person {
     String name;
@@ -9,7 +9,5 @@ public class Person {
         this.age=age;
     }
 
-    public String toString(){
 
-    }
 }
